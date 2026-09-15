@@ -74,6 +74,7 @@ function setupEmailForm(formId, successId) {
 setupEmailForm('leadMagnetForm',  'leadMagnetSuccess');
 setupEmailForm('freeStuffForm',   'freeStuffSuccess');
 setupEmailForm('contactForm',     'contactSuccess');
+setupEmailForm('aiFreebieForm',   'aiFreebieSuccess');
 
 // Pillar collapse/expand (services page)
 (function() {
