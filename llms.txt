@@ -1,0 +1,49 @@
+# Navisignal Insights
+
+> Sustainability, supply chain, and responsible AI advisory for companies and mission-driven organizations.
+
+Navisignal Insights is a professional advisory practice founded by Joelle Petrus, based in Washington, D.C. The practice helps companies, suppliers, NGOs, and governments make better decisions on sustainability, supply chain accountability, human rights due diligence, and responsible AI adoption — before those decisions become costly mistakes.
+
+Joelle Petrus has 18+ years of international experience across 30+ countries, with deep expertise in MENA and Sub-Saharan Africa. She is fluent in French, a native English speaker, and has working knowledge of Spanish and Arabic.
+
+## Services
+
+### Corporate Sustainability & ESG Readiness
+Advisory support to clarify sustainability priorities, define decision criteria, and translate broad commitments into practical implementation. Includes sustainability diagnostics, strategy memos, reporting support, and supplier ESG readiness.
+
+### Supply Chain, Human Rights & Market Risk
+Support to identify human rights, labor, and responsible sourcing risks across operations, partners, and supply chains. Includes due diligence workflows, risk maps, stakeholder mapping, and market entry risk assessments for complex or frontier markets.
+
+### Responsible AI Adoption & Governance
+Practical support for organizations that want to use AI well and avoid adoption risks. Includes AI readiness diagnostics, use-case prioritization, responsible AI policy development, and workflow integration support.
+
+### Data & Impact
+Design of KPI frameworks, indicator systems, and reporting logic to help teams measure progress credibly. For NGOs, government programs, and mission-driven organizations.
+
+## Who This Is For
+
+- Large buyers navigating ESG reporting, supply chain accountability, and sustainability disclosure
+- Suppliers responding to buyer ESG, responsible sourcing, and compliance requests
+- NGOs and government agencies measuring impact and adopting responsible technology
+- Organizations entering complex or frontier markets
+- Any team that wants to use AI safely and practically
+
+## Free Resources
+
+- "Recommended CORE AI & Tech Stack for NGOs" — a curated guide to essential AI tools for development organizations
+- "Can We Use AI for This?" — a practical decision framework for responsible AI adoption
+
+Available at: https://navisignalinsights.com/free-stuff.html
+
+## Contact
+
+- Website: https://navisignalinsights.com
+- Email: hello@navisignal.app
+- LinkedIn: https://www.linkedin.com/in/joellepetrus/
+- Book a free strategy call: https://meetings-na2.hubspot.com/joelle-petrus
+
+## Selected Publications
+
+- Strengthening the Support Ecosystem: Stakeholder-Driven Insights to Accelerate Climate Innovation in Small Island Development States (Open Access)
+- The Role of Community-Based Organizations in COVID-19 Response: Case Studies of Bangladesh, Burkina Faso, Nigeria, and Syria (iMMAP / USAID)
+- NGO Outreach to Priority Refugee Population Demographics in Cairo (American University of Cairo)
