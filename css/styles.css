@@ -1237,7 +1237,7 @@ a:hover { color: var(--teal-light); }
 .lm-title { font-size: 1.45rem; font-weight: 700; color: var(--navy); margin-bottom: 0.75rem; line-height: 1.25; }
 .lm-desc { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1.5rem; }
 .lm-form { display: flex; flex-direction: column; gap: 10px; }
-.lm-form input[type="email"] {
+.lm-form input[type="email"], .lm-form input[type="text"] {
   width: 100%;
   padding: 13px 16px;
   border: 1.5px solid var(--border);
@@ -1249,7 +1249,7 @@ a:hover { color: var(--teal-light); }
   outline: none;
   transition: border-color var(--transition);
 }
-.lm-form input[type="email"]:focus { border-color: var(--gold); background: white; }
+.lm-form input[type="email"]:focus, .lm-form input[type="text"]:focus { border-color: var(--gold); background: white; }
 .lm-form .btn { width: 100%; justify-content: center; }
 .lm-note { font-size: 0.75rem; color: var(--text-muted); text-align: center; margin-top: 8px; margin-bottom: 0; }
 .lm-success { text-align: center; padding: 8px 0; }
