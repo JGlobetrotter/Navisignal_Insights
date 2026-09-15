@@ -1139,8 +1139,8 @@ a:hover { color: var(--teal-light); }
 .freebie-form-drop { display: none; padding: 14px 16px; border: 1px solid var(--border); border-top: none; border-radius: 0 0 var(--radius) var(--radius); background: var(--bg); }
 .freebie-form-drop.open { display: block; }
 .kit-resource-form { display: flex; flex-direction: column; gap: 0.5rem; flex-shrink: 0; min-width: 220px; }
-.kit-resource-form input[type="email"] { padding: 10px 14px; border: 1.5px solid var(--border); border-radius: var(--radius); font-size: 0.875rem; font-family: inherit; color: var(--text); width: 100%; }
-.kit-resource-form input[type="email"]:focus { outline: none; border-color: var(--navy); }
+.kit-resource-form input[type="email"], .kit-resource-form input[type="text"] { padding: 10px 14px; border: 1.5px solid var(--border); border-radius: var(--radius); font-size: 0.875rem; font-family: inherit; color: var(--text); width: 100%; }
+.kit-resource-form input[type="email"]:focus, .kit-resource-form input[type="text"]:focus { outline: none; border-color: var(--navy); }
 .kit-resource-form .btn { width: 100%; justify-content: center; text-align: center; }
 
 @media (max-width: 600px) {
